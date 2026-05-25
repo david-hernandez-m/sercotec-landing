@@ -1,6 +1,6 @@
 # Landing Page Centro de Negocios Santiago - SERCOTEC
 
-Proyecto desarrollado como evaluación sumativa para actualizar la presencia web del Centro de Negocios Santiago de SERCOTEC mediante una landing page moderna, dinámica, reutilizable y administrable.
+Proyecto desarrollado para actualizar la presencia web del Centro de Negocios Santiago de SERCOTEC mediante una landing page moderna, dinámica, reutilizable y administrable.
 
 ## Objetivo del proyecto
 
