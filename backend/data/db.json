@@ -1,0 +1,85 @@
+{
+  "about": {
+    "title": "Centro de Negocios Santiago",
+    "description": "El Centro de Negocios Santiago de SERCOTEC entrega acompañamiento especializado a micro, pequeñas y medianas empresas, apoyando su gestión, innovación, sostenibilidad y crecimiento.",
+    "address": "Manuel Rodríguez Sur 749, Santiago, Metro Toesca",
+    "email": "centro.santiago@centrossercotec.cl"
+  },
+  "services": [
+    {
+      "id": 1,
+      "title": "Asesoría empresarial",
+      "description": "Apoyo especializado para mejorar la gestión, organización y toma de decisiones dentro del negocio.",
+      "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": 2,
+      "title": "Marketing digital",
+      "description": "Orientación para fortalecer la presencia digital, mejorar la comunicación y atraer nuevos clientes.",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": 3,
+      "title": "Innovación y sostenibilidad",
+      "description": "Acompañamiento para incorporar herramientas digitales, optimizar procesos y proyectar el crecimiento.",
+      "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=900&q=80"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "María González",
+      "business": "Emprendimiento de alimentos saludables",
+      "text": "El Centro de Negocios Santiago nos ayudó a ordenar nuestras finanzas y mejorar la forma en que presentamos nuestros productos."
+    },
+    {
+      "id": 2,
+      "name": "Carlos Muñoz",
+      "business": "Tienda de artículos tecnológicos",
+      "text": "Gracias a las asesorías pudimos fortalecer nuestra presencia digital y llegar a más clientes a través de redes sociales."
+    },
+    {
+      "id": 3,
+      "name": "Camila Rojas",
+      "business": "Servicios de diseño y publicidad",
+      "text": "El acompañamiento fue claro, cercano y muy útil para definir un plan de crecimiento más sostenible para mi negocio."
+    }
+  ],
+  "faqs": [
+    {
+      "id": 1,
+      "question": "¿Quiénes pueden recibir apoyo del Centro de Negocios?",
+      "answer": "Pueden recibir apoyo emprendedores, micro, pequeñas y medianas empresas que necesiten orientación para fortalecer su gestión y crecimiento."
+    },
+    {
+      "id": 2,
+      "question": "¿Los servicios tienen costo?",
+      "answer": "Los Centros de Negocios SERCOTEC entregan apoyo y acompañamiento a emprendedores y empresas según los programas disponibles."
+    },
+    {
+      "id": 3,
+      "question": "¿Cómo puedo solicitar una asesoría?",
+      "answer": "Puedes completar el formulario de contacto indicando el servicio que necesitas y el equipo podrá orientarte."
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1779723427829,
+      "nombre": "David Fernando Hernandez Maldonado",
+      "email": "davidhernandez@ssdr.gob.cl",
+      "telefono": "+56956336642",
+      "servicio": "Marketing digital",
+      "mensaje": "quisiera informacion mas detallada del servicio que ofrecen",
+      "createdAt": "2026-05-25T15:37:07.829Z"
+    },
+    {
+      "id": 1779730066564,
+      "nombre": "David Fernando Hernandez Maldonado",
+      "email": "davicitoeljoker@gmail.com",
+      "telefono": "+56956336642",
+      "servicio": "Marketing digital",
+      "mensaje": "buenas tardes, quisiera saber mas informacion sobre sus productos y servicios",
+      "createdAt": "2026-05-25T17:27:46.564Z"
+    }
+  ]
+}
